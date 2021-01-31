@@ -7,7 +7,7 @@
 
 4.) zybook and http://www.cplusplus.com/reference/cmath/fmod/
 
-5.) g++ intarray.cpp ./a.out
-    g++ zeroboth.cpp ./z.out
-    g++ salestax.cpp ./t.out
-    g++ conversion.cpp ./c3.out
+5.) g++ intarray.cpp -o ./a.out
+    g++ zeroboth.cpp -o ./z.out
+    g++ salestax.cpp -o ./t.out
+    g++ conversion.cpp -o ./c.out
